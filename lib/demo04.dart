@@ -1,5 +1,5 @@
 /*
- * Démo 04 : Requête HTTP avec le package Dio et syntaxe then / catchError
+ * Démo 04 : Requête HTTP  à une API REST avec le package Dio et syntaxe then / catchError
  */
 import 'package:dio/dio.dart';
 

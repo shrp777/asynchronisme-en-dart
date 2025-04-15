@@ -1,5 +1,5 @@
 /*
- * Démo 06 : appel à une fonction asynchrone émulée et gestion d'erreur avec then
+ * Démo 06 : appel à une fonction asynchrone émulée et gestion d'erreur avec then / onError
  */
 
 //simule l'appel à une API pour obtenir une valeur de façon asynchrone

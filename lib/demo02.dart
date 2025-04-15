@@ -1,5 +1,5 @@
 /*
- * Démo 02 : Requête HTTP avec le package Dio
+ * Démo 02 : Requête HTTP à une API REST avec le package Dio
  */
 import 'package:dio/dio.dart';
 

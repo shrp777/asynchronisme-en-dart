@@ -1,5 +1,5 @@
 /*
- * Démo 03 : Requête HTTP avec le package Dio
+ * Démo 03 : Requête HTTP  à une API REST avec le package http
  */
 
 import 'dart:convert';
