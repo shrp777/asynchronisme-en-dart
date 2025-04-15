@@ -28,6 +28,12 @@ $ `dart run`
 
 $ `dart test`
 
+## Crédits
+
+[Photo de cottonbro studio](https://www.pexels.com/fr-fr/photo/gens-personnes-individus-eau-9617736/)
+
+![asynchronisme](./assets/pexels-cottonbro-9617736.jpg)
+
 --
 
 !["Logotype Shrp"](https://sherpa.one/images/sherpa-logotype.png)
