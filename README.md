@@ -9,6 +9,10 @@
 - Démo 05 (./lib/demo05.dart) : appel à une fonction asynchrone émulée et gestion d'erreur avec try / catch / finally
 - Démo 06 (./lib/demo05.dart) : appel à une fonction asynchrone émulée et gestion d'erreur avec then / catchError
 
+## Documentation
+
+[Asynchronous programming: futures, async, await](https://dart.dev/libraries/async/async-await)
+
 ## Commandes utiles
 
 - Installation des dépendances :
